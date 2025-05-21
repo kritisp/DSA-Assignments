@@ -79,7 +79,7 @@ public class QueueLinkedList {
                 case 3:
                     display(rear, front);
                     break;
-                default
+                default:
                     System.out.println("Invalid choice. Please try again.");
             }
         }
